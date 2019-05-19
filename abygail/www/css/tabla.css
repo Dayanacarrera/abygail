@@ -1,0 +1,44 @@
+/*code of table cascading style*/
+
+.tabla {
+	background-image: url("../img/blr.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+
+.sub .tdcal{
+	background:url("https://www.webconsultas.com/sites/default/files/calorias_vacias1.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	border:groove 10px;   
+}
+
+.sub .tdgra{
+	background:url("https://www.cocinavital.mx/wp-content/uploads/2013/07/grasas-trans-malas-para-la-salud.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	border:groove 10px;   
+	-webkit-background-size:cover;
+}
+
+.sub .tdpro{
+	background:url("http://as01.epimg.net/deporteyvida/imagenes/2017/06/26/portada/1498473439_004023_1498473691_noticia_normal.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	border:groove 10px;   
+}
+
+.sub tr th{
+	font:bold 50px tahoma;
+	font-size: 20px;
+	color:black;
+	background:url("../img/al.jpg");
+	text-align:center;   
+}
